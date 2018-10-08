@@ -1,5 +1,5 @@
 ### initialize
-source("initialize.R")
+#source("initialize.R")
 
 #Read the data
 NEI <- readRDS("summarySCC_PM25.rds")
